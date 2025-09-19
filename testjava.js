@@ -2,7 +2,7 @@
 let nama = prompt("Siapa namamu?");
 
 // Buat pesan
-let pesan = "Selamat datang,hhhhhhhhhhh " + nama + "! Semoga harimu menyenangkan 😊";
+let pesan = "Selamat datang,hhhhhhhhhhh jadbhgysuhiknsj" + nama + "! Semoga harimu menyenangkan 😊";
 
 // Tampilkan ke console
 console.log(pesan);
